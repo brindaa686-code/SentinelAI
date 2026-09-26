@@ -115,6 +115,4 @@ cyber_ai_agent/
 
  
 
-## Author
-
-Brinda A — B.Tech Computer Science (Cybersecurity), Kristu Jayanti College
+ 
