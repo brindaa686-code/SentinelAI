@@ -1,0 +1,5 @@
+requests
+streamlit
+flask
+uvicorn[standard]
+ollama

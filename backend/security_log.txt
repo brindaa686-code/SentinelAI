@@ -1,0 +1,49 @@
+IP abuse detected from 192.168.1.100
+IP abuse detected from 192.168.1.100
+Unauthorized access attempt detected
+Brute force detected from 192.168.1.10
+Spam detected
+Phishing attempt detected
+IP abuse detected from 192.168.1.100
+Behavior anomaly detected
+No unauthorized access detected
+No brute force detected
+No spam detected
+No phishing detected
+No IP abuse detected
+No anomaly detected
+IP Abuse from 192.168.1.50 (risk=2, severity=medium)
+Brute Force, Phishing from 192.168.1.60 (risk=5, severity=high)
+Phishing from unknown (risk=2, severity=medium)
+IP Abuse from 192.168.1.100 (risk=2, severity=medium)
+IP Abuse from 192.168.1.10 (risk=2, severity=medium)
+Brute Force, Phishing, IP Abuse from 10.0.0.5 (risk=7, severity=high)
+Brute Force, Phishing from 172.16.0.8 (risk=5, severity=high)
+IP Abuse from 192.168.1.50 (risk=2, severity=medium)
+Brute Force, Phishing from 192.168.1.60 (risk=5, severity=high)
+Phishing from unknown (risk=2, severity=medium)
+IP Abuse from 192.168.1.100 (risk=2, severity=medium)
+IP Abuse from 192.168.1.10 (risk=2, severity=medium)
+Brute Force, Phishing, IP Abuse from 10.0.0.5 (risk=7, severity=high)
+Brute Force, Phishing from 172.16.0.8 (risk=5, severity=high)
+IP Abuse from 192.168.1.50 (risk=2, severity=medium)
+Brute Force, Phishing from 192.168.1.60 (risk=5, severity=high)
+Phishing from unknown (risk=2, severity=medium)
+IP Abuse from 192.168.1.100 (risk=2, severity=medium)
+IP Abuse from 192.168.1.10 (risk=2, severity=medium)
+Brute Force, Phishing, IP Abuse from 10.0.0.5 (risk=7, severity=high)
+Brute Force, Phishing from 172.16.0.8 (risk=5, severity=high)
+IP Abuse from 192.168.1.50 (risk=2, severity=medium)
+Brute Force, Phishing from 192.168.1.60 (risk=5, severity=high)
+Phishing from unknown (risk=2, severity=medium)
+IP Abuse from 192.168.1.100 (risk=2, severity=medium)
+IP Abuse from 192.168.1.10 (risk=2, severity=medium)
+Brute Force, Phishing, IP Abuse from 10.0.0.5 (risk=7, severity=high)
+Brute Force, Phishing from 172.16.0.8 (risk=5, severity=high)
+IP Abuse from 192.168.1.50 (risk=2, severity=medium)
+Brute Force, Phishing from 192.168.1.60 (risk=5, severity=high)
+Phishing from unknown (risk=2, severity=medium)
+IP Abuse from 192.168.1.100 (risk=2, severity=medium)
+IP Abuse from 192.168.1.10 (risk=2, severity=medium)
+Brute Force, Phishing, IP Abuse from 10.0.0.5 (risk=7, severity=high)
+Brute Force, Phishing from 172.16.0.8 (risk=5, severity=high)

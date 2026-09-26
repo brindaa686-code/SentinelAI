@@ -1,0 +1,11 @@
+2026-06-15 13:00:00 DROP TCP 192.168.1.50 10.0.0.5 22
+2026-06-15 13:01:00 FAILED LOGIN from 192.168.1.60
+2026-06-15 13:02:00 SPAM EMAIL detected
+2026-06-15 13:03:00 PHISHING ATTEMPT http://secure-login-update.com
+2026-06-15 13:04:00 IP ABUSE multiple DROP packets from 192.168.1.100
+2026-06-15 13:05:00 ANOMALY unusual traffic spike detected
+Jun 18 11:00:00 DENIED connection from 192.168.1.10
+Jun 18 11:05:00 FAILED LOGIN attempt from 10.0.0.5
+Jun 18 11:10:00 Suspicious email with phishing link detected
+Jun 18 11:15:00 Multiple failed login attempts from 172.16.0.8
+Jun 18 11:20:00 Excessive requests from 203.0.113.45
